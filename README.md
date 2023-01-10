@@ -1,2 +1,1 @@
-# laba6
-Laboratory work number 6
+Лабораторная работа № 6.
